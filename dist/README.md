@@ -1,10 +1,10 @@
 
-<h1 align="center">ReadMe Generator 👋</h1>
+<h1 align="center">README Generator 👋</h1>
   
 ![badge](https://img.shields.io/badge/license-ISC-brightgreen)<br />
 
 ## Description
-🔍 A node.js application that uses user input from inquirer to populate a README.md file for user repository. The README.md file is created in the dist directory
+🔍 This is a README generator meant to help users create a README for their projects
 
 ## Table of Contents
 - [Description](#description)
@@ -19,7 +19,7 @@
 💾 
 
 ## Usage
-💻 To create a README file in order to give users an easier README experience
+💻 Creating README's
 
 ## License
 ![badge](https://img.shields.io/badge/license-ISC-brightgreen)
@@ -30,10 +30,10 @@ This application is covered by the ISC license.
 👪 Rhowen Raju
 
 ## Tests
-✏️ no
+✏️ 
 
 ## Questions
-✋ Contact rraju002@ucr.edu<br />
+✋ Email rraju002@ucr.edu<br />
 <br />
 :octocat: Find me on GitHub: [rraju002](https://github.com/rraju002)<br />
 <br />
