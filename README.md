@@ -7,9 +7,7 @@
     <img src="https://img.shields.io/github/languages/top/jpd61/README-generator"  />
     <img src="https://img.shields.io/github/issues/jpd61/README-generator" />
     <img src="https://img.shields.io/github/last-commit/jpd61/README-generator" >
-    <a href="">
-        <img alt="Twitter: " src="" target="_blank" />
-    </a>
+    
 </p>
   
 <p align="center">
